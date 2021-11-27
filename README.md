@@ -49,5 +49,4 @@ http://stackoverflow.com/users/55562/lakshman-prasad
 
 http://stackoverflow.com/questions/32441605/generating-ngrams-unigrams-bigrams-etc-from-a-large-corpus-of-txt-files-and-t
 
-https://lactualite.com/sante-et-science/faut-il-avoir-peur-des-robots-redacteurs/#comment-820503
-
+https://lactualite.com/sante-et-science/faut-il-avoir-peur-des-robots-redacteurs/
