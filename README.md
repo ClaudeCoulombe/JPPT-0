@@ -1,5 +1,5 @@
 # JPPT-0 : Je n'ai Pas PéTé mon budget calcul! 
-## Zéro dollar de calcul...
+# Génération de textes à zéro dollar de calcul...
 
 ## Génération simple de textes en français avec des modèles de Markov
 
