@@ -48,3 +48,6 @@ http://www.cs.princeton.edu/courses/archive/spr05/cos126/assignments/markov.html
 http://stackoverflow.com/users/55562/lakshman-prasad
 
 http://stackoverflow.com/questions/32441605/generating-ngrams-unigrams-bigrams-etc-from-a-large-corpus-of-txt-files-and-t
+
+https://lactualite.com/sante-et-science/faut-il-avoir-peur-des-robots-redacteurs/#comment-820503
+
