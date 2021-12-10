@@ -11,6 +11,20 @@ Pour cela, il crée un index de trigrammes et de leur fréquence par un dépouil
 
 Sur l'idée de la chaîne de Markov, un modèle prédictif ainsi constitué peut générer un texte en se basant sur le mot ou gramme qui est le successeur le plus probable de deux mots donnés. Pour démarrer on fournira les deux premiers mots (un germe) ou autrement le générateur fera un choix aléatoire. 
 
+## Exemples
+
+### Le coeur a ses raisons (Marc Labrèche)
+
+Brett: Cette literie satinée a transformé mon lit en une véritable glissoire de la bouche de Doug, sans le vouloir, contre leur gré, quoi. Brett: Tu sembles tenir la forme? Brad: Brad!! Brad: Oublions nos vieilles querelles... Serrons-nous. Ils s'embrassent. Rideau. Brett: Ne vous inquiètez pas Criquette. Lorsqu'un sourire reptilien. Brett: Oui.. C'est ça?! Brett: Wow. Pardonnez-moi, Brett? Brett: Vous avez fait votre choix? Ridge: Ridge pense... Malgré un doctorat en philosophie et une maîtrise en danse africaine, je?? Doug: Je ne sais pas. Sortons nos jumelles de poches. Si pratiques lors des voyages ou des safaris photos. Ils sortent des jumelles imaginaires.
+
+### Mathieu BOT Côté (Journal de Montréal)
+
+Québec libre. Quelle sera la véritable raison du fait qu'on en arrive à la veille que cela. Après avoir compilé les études portant sur les enjeux du jour au lendemain de l'histoire politique a-t-il? La CAQ est en train de marquer une claire volonté indépendantiste suffirait-il de la loi sur la route du temps, pour rappeler que le sien sans l'évolution des prénoms américains ( Logan, Tyler, Jayden, etc.), les deux avenirs possibles de nombreux pays. Je vous donne-t-il pas naturellement les animer. Plus l'identité québécoise sans un gouvernement enthousiaste désireux de ne pas arriver ». Le sens du silence, de la droite, étrangement, la loi.
+
+### La Génèse
+
+Dieu dit: Que cherches-tu fait? La femme vit que l'un demi-sicle, et se rendit vers Pharaon. Pharaon dit à Laban: Donne-moi. Et ils firent entendre de grandes plaies Pharaon et à ta race. On fit descendre Joseph en égypte, et se présentèrent devant Joseph. Ils s'approchèrent, et il y avait du pain contre vos troupeaux, si l'entrée d'ésaü: elle enfanta un fils. Et Laban lui donna le même ordre au premier-né, que ton âme me bénisse. Isaac dit: Si vous êtes des espions.
+
 ## Pourquoi?
 
 Avec JPPT-0, il est possible de créer des modèles capables de générer des textes assez bluffants, du moins amusants ou poétiques, sans avoir à entraîner des modèles d'apprentissage profond pendant des jours sur des corpus représentant une fraction importante du contenu de la Toile.
